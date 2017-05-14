@@ -1,0 +1,85 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  font-family: sans-serif;
+  color: yellow;
+  margin-left: 100px;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  color: white;
+  margin-left: 120px;
+}
+
+body {
+  color: black;
+  background-image:url(a.gif);
+  background-size: contain;
+}
+
+h2 {
+  color: green;
+  margin-left: 500px;
+}
+
+img {
+  margin-left: 300px;
+}
+
+h5 {
+  margin-left: 500px;
+  color: white;
+  font-style: oblique;
+  font-stretch: extra-expanded;
+}
+
+h4 {
+  margin-left: 400px;
+}
+
+h3 {
+  margin-left: 400px;
+}
+
+.about {
+  background-color:rgba(0, 0, 255, 0.3);
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+#camera {
+  background-image: url(camera.jpg);
+  background-size: cover;
+}
+#camera2{
+  background-image: url(e.jpg);
+  background-size: contain;
+margin-top: 20px;
+}
+.links{
+  background-color:rgba(192,192,192,0.3);
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+.me{
+  background-color:rgba(255,0,255,0.3);
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+#start{
+  background-image: url(g.jpg);
+  background-size: contain;
+  margin-bottom: 20px;
+}
